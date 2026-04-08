@@ -1,2 +1,2 @@
-Data Science Capstone repository. 
-Main: Data Gathering, SPACEX API REST Calls. Flow chart 
+Data Science Capstone repository
+Folium Interactive map
